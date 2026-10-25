@@ -1,1 +1,5 @@
 console.log("Test unitaire")
+console.log("Bonjour1")
+console.log("Bonjour2")
+console.log("Bonjour3")
+console.log("Bonjour4")
