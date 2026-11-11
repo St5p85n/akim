@@ -42,3 +42,4 @@ calculeSalaireProf(prof)
 }else{
     console.log("6 n'est pas premier")
 } */
+//les fonction fleche, les module + les tableaux" reduce,map,filter"
